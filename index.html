@@ -1,13 +1,29 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./styles.css">
-    <title>Document</title>
+    <title>Catálogo Musical</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Hola Mundo</h1>
-    <script src="./conversor.js"></script>
+    <h1>Catálogo Musical</h1>
+    <div id="filters">
+        <label for="searchInput">Buscar:</label>
+        <input type="text" id="searchInput" placeholder="Buscar productos...">
+        <label for="typeFilter">Filtrar por Tipo:</label>
+        <select id="typeFilter">
+            <option value="all">Todos</option>
+            <option value="Album">Álbum</option>
+            <option value="Merchandise">Merchandise</option>
+            <option value="Instrument">Instrumento</option>
+            <option value="Accessory">Accesorio</option>
+        </select>
+    </div>
+    <div id="catalog"></div>
+    <button id="cartButton">Ver Carrito</button>
+    
+    <script src="app.js"></script>
+
 </body>
+
 </html>
