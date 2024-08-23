@@ -4,9 +4,16 @@
     <meta charset="UTF-8">
     <title>Catálogo Musical</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" />
 </head>
 <body>
-    <h1>Catálogo Musical</h1>
+    <!-- Header de la página -->
+    <header>
+        <h1>Catálogo Musical</h1>
+        <button id="cartButton">Ver Carrito (0)</button>
+    </header>
+
+    <!-- Filtros y catálogo de productos -->
     <div id="filters">
         <label for="searchInput">Buscar:</label>
         <input type="text" id="searchInput" placeholder="Buscar productos...">
@@ -20,10 +27,8 @@
         </select>
     </div>
     <div id="catalog"></div>
-    <button id="cartButton">Ver Carrito</button>
     
     <script src="app.js"></script>
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
 </body>
-
 </html>

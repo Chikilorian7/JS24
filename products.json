@@ -6,7 +6,7 @@
         "artist": "The Beatles",
         "genre": "Rock",
         "price": 10.99,
-        "imageURL": "path/to/abbey-road.jpg"
+        "imageURL": "https://www.udiscovermusic.com/wp-content/uploads/2020/08/Abbey-Road.jpg"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "artist": "Michael Jackson",
         "genre": "Pop",
         "price": 10.99,
-        "imageURL": "path/to/thriller.jpg"
+        "imageURL": "https://contentv2.tap-commerce.com/cover/large/888751437319_1.jpg?id_com=1156"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "artist": "AC/DC",
         "genre": "Rock",
         "price": 10.99,
-        "imageURL": "path/to/back-in-black.jpg"
+        "imageURL": "https://smfstore.com/cdn/shop/files/Backinblack_1_eb940d09-3748-4af5-9a3a-07c25d47e1f2_1080x.png?v=1708437581"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "artist": "Pink Floyd",
         "genre": "Progressive Rock",
         "price": 10.99,
-        "imageURL": "path/to/dark-side-of-the-moon.jpg"
+        "imageURL": "https://http2.mlstatic.com/D_Q_NP_912352-MLU70522987878_072023-O.webp"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "artist": "Fleetwood Mac",
         "genre": "Rock",
         "price": 10.99,
-        "imageURL": "path/to/rumours.jpg"
+        "imageURL": "https://i.pinimg.com/736x/95/68/b4/9568b48c00705a301c916d0afad7d2f3.jpg"
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "artist": "The Beatles",
         "genre": "Rock",
         "price": 10.99,
-        "imageURL": "path/to/beatles-tshirt.jpg"
+        "imageURL": "https://usastore.thebeatles.com/cdn/shop/products/BTLLOGOTEE.png?v=1663695893"
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
         "artist": "AC/DC",
         "genre": "Rock",
         "price": 10.99,
-        "imageURL": "path/to/acdc-poster.jpg"
+        "imageURL": "https://http2.mlstatic.com/D_NQ_NP_903424-MLA76304644076_052024-O.webp"
     },
     {
         "id": 8,
@@ -69,7 +69,7 @@
         "artist": "Pink Floyd",
         "genre": "Progressive Rock",
         "price": 10.99,
-        "imageURL": "path/to/pink-floyd-mug.jpg"
+        "imageURL": "https://i.pinimg.com/736x/6b/28/8d/6b288daf2dc40558bb708ef929bfe6e9.jpg"
     },
     {
         "id": 9,
@@ -78,7 +78,7 @@
         "artist": "Fleetwood Mac",
         "genre": "Rock",
         "price": 10.99,
-        "imageURL": "path/to/fleetwood-mac-hat.jpg"
+        "imageURL": "https://i.etsystatic.com/37400786/r/il/5200f0/5865492327/il_570xN.5865492327_kxkn.jpg"
     },
     {
         "id": 10,
@@ -87,7 +87,7 @@
         "artist": "Michael Jackson",
         "genre": "Pop",
         "price": 10.99,
-        "imageURL": "path/to/michael-jackson-pin.jpg"
+        "imageURL": "https://www.kingpinz.co/cdn/shop/products/MJ_9a7c6d3b-1867-4262-a224-005e7c749eaf_480x480@2x.jpg?v=1646047126"
     },
     {
         "id": 11,
@@ -96,7 +96,7 @@
         "artist": "",
         "genre": "",
         "price": 100.99,
-        "imageURL": "path/to/fender-stratocaster.jpg"
+        "imageURL": "https://audioimport.com.ar/wp-content/uploads/2021/02/fender-player-stratocaster-hss-mn-3-color-sunburst_5d810423749c9.jpg"
     },
     {
         "id": 12,
@@ -105,7 +105,7 @@
         "artist": "",
         "genre": "",
         "price": 100.99,
-        "imageURL": "path/to/yamaha-keyboard.jpg"
+        "imageURL": "https://artemusical.com.ar/wp/wp-content/uploads/2024/01/teclado-yamaha-psr-ew425.jpeg"
     },
     {
         "id": 13,
@@ -114,7 +114,7 @@
         "artist": "",
         "genre": "",
         "price": 100.99,
-        "imageURL": "path/to/pearl-drum-kit.jpg"
+        "imageURL": "https://sc1.musik-produktiv.com/pic-010154885l/pearl-masters-maple-gum-mmgc924xsp-l-c418-blue-abalone-22-shell-set.jpg"
     },
     {
         "id": 14,
@@ -123,7 +123,7 @@
         "artist": "",
         "genre": "",
         "price": 100.99,
-        "imageURL": "path/to/selmer-saxophone.jpg"
+        "imageURL": "https://boutiquedevientos.com.ar/wp-content/uploads/2023/04/2313020089-saxo-alto-serie-2-jubilee-mib-selmer-paris-towsa.jpg"
     },
     {
         "id": 15,
@@ -132,7 +132,7 @@
         "artist": "",
         "genre": "",
         "price": 100.99,
-        "imageURL": "path/to/ibanez-electric-guitar.jpg"
+        "imageURL": "https://sc1.musik-produktiv.com/pic-010149834l/ibanez-rg8870-bre.jpg"
     },
     {
         "id": 16,
@@ -141,7 +141,7 @@
         "artist": "",
         "genre": "",
         "price": 100.99,
-        "imageURL": "path/to/guitar-pedal.jpg"
+        "imageURL": "https://i.ebayimg.com/images/g/HO0AAOSwUV1kPO8P/s-l1200.webp"
     },
     {
         "id": 17,
@@ -150,7 +150,7 @@
         "artist": "",
         "genre": "",
         "price": 100.99,
-        "imageURL": "path/to/headphones.jpg"
+        "imageURL": "https://products.shureweb.eu/cdn-cgi/image/width=1380,height=1380,format=auto/shure_product_db/product_main_images/files/9d3/cc6/f4-/original/4e626c0c3a34e538381c7c86363940b1.webp"
     },
     {
         "id": 18,
@@ -159,7 +159,7 @@
         "artist": "",
         "genre": "",
         "price": 100.99,
-        "imageURL": "path/to/microphone-stand.jpg"
+        "imageURL": "https://m.media-amazon.com/images/I/51kxFAVXfmL.jpg"
     },
     {
         "id": 19,
@@ -168,7 +168,7 @@
         "artist": "",
         "genre": "",
         "price": 100.99,
-        "imageURL": "path/to/guitar-strap.jpg"
+        "imageURL": "https://perris.ca/wp-content/uploads/2018/11/6552_zag.jpg"
     },
     {
         "id": 20,
@@ -177,6 +177,6 @@
         "artist": "",
         "genre": "",
         "price": 100.99,
-        "imageURL": "path/to/sheet-music-stand.jpg"
+        "imageURL": "https://m.media-amazon.com/images/I/51sxgVwFVEL.jpg"
     }
 ]
